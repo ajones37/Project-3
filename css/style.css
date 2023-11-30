@@ -89,9 +89,9 @@ section{
 }
 
 #map {
-
- height: 100px;
- width: 500%;
+ height: 100%;
+ width: 500px;
+ border-radius: 20px;
 }
 
 #wrapper {
